@@ -1,0 +1,19 @@
+{
+  "name": "pro_oop_project",
+  "version": "1.0.1",
+  "description": "A oop project with TypeScript, Node js and Inquirer",
+  "main": "main.js",
+  "type": "module",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uzma Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
